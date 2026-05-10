@@ -1,0 +1,20 @@
+#include<iostream>
+#include<fstream>
+using namespace std;
+
+int main() {
+
+    ifstream fin("notes.txt");
+    ofstream fout("copy.txt");
+
+    string line;
+    while(getline(fin, line)) {
+        fout << line << endl;
+    }
+
+    cout << "File content copied successfully." << endl;
+    fin.close();
+    fout.close();
+
+    return 0;
+}
