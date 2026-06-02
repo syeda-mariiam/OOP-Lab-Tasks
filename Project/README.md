@@ -1,9 +1,9 @@
 # ✈️ Airline Reservation & Flight Management System
 
-**Course:** Object-Oriented Programming (C++)
-**Assignment Type:** Problem-Based Learning (PBL) — Individual Project
-**Student Name:** Mariam
-**Roll NO:** 2025-SE-01
+**Course:** Object-Oriented Programming (C++) <br>
+**Assignment Type:** Problem-Based Learning (PBL) — Individual Project <br>
+**Student Name:** Mariam <br>
+**Roll NO:** 2025-SE-01 <br>
 
 ---
 
